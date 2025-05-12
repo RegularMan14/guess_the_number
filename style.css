@@ -1,0 +1,16 @@
+body {
+    text-align: center;
+}
+
+#num {
+    border-radius: 0.5rem;
+    padding: 0.5rem;
+}
+
+.btn {
+    margin-top: 1rem;
+    padding: 0.5rem;
+    background-color: rgb(87, 87, 87);
+    color: white;
+    border-radius: 0.5rem;
+}
